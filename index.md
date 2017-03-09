@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to Joe's Projects Page
 This page serves as a place to document my ongoing software development and application projects.
 
 ## Software Development and Applications
