@@ -9,6 +9,5 @@ This page serves as a place to document my ongoing software development and appl
 
 ### Nifty Code Snippets
 
-### Markdown
 ```markdown
 Syntax highlighted code block..
