@@ -8,5 +8,5 @@ This page serves as a place to document my ongoing software development and appl
 ### SELF Updates
 
 ### Nifty Code Snippets
-***markdown
+```markdown
 Sample code block..
