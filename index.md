@@ -9,6 +9,6 @@ This page serves as a place to document my ongoing software development and appl
 
 ### Nifty Code Snippets
 
-```
+```Fortran
 Syntax highlighted code block..
 ```
