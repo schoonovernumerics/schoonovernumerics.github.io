@@ -6,7 +6,7 @@ Skills : Fortran, GPU Programming (CUDA, OpenACC), Distributed computing (MPI), 
 
 ## [Resume](schoonover_cv.pdf)
 ## Software Development and Applications
- [<img src="SELF-shirt.png" width=10%>](https://schoonovernumerics.github.io/SELF/) 
+ [<div><img src="SELF-shirt.png" width=10%></div>](https://schoonovernumerics.github.io/SELF/) 
 
 ## Highlights from this week
  I got this page set up.
