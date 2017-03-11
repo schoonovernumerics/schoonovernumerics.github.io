@@ -5,7 +5,7 @@ This page serves as a place to document my ongoing software development and appl
 
 **Interests** : Geophysical Fluid Dynamics, Computational Fluid Dynamics, Data Visualization
 
-**Skills** : Fortran, GPU Programming (CUDA, OpenACC), Distributed computing (MPI), Shared Memory Computing (OpenMP)
+**Skills** : Fortran, GPU Programming (CUDA, OpenACC), Distributed computing (MPI), Shared Memory Computing (OpenMP), Discontinuous Galerkin Spectral Element Methods, Analytical methods for hyperbolic PDEs
 
 
 ## Software Development and Applications
@@ -24,5 +24,5 @@ This page serves as a place to document my ongoing software development and appl
 ### Nifty Code Snippets
 
 ```Fortran
-REAL(prec), DEVICE :: gpu_device_variable(:,:,:).
+REAL(prec), DEVICE :: gpu_device_variable(:,:,:)
 ```
