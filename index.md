@@ -1,8 +1,9 @@
 # Welcome to Joe's Projects Page
 This page serves as a place to document my ongoing software development and application projects.
 
-Interests : Geophysical Fluid Dynamics, Computational Fluid Dynamics, Data Visualization
-Skills : Fortran, GPU Programming (CUDA, OpenACC), Distributed computing (MPI), Shared Memory Computing (OpenMP)
+**Interests** : Geophysical Fluid Dynamics, Computational Fluid Dynamics, Data Visualization
+
+**Skills** : Fortran, GPU Programming (CUDA, OpenACC), Distributed computing (MPI), Shared Memory Computing (OpenMP)
 
 ## [Resume](schoonover_cv.pdf)
 ## Software Development and Applications
