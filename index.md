@@ -15,12 +15,11 @@ This page serves as a place to document my ongoing software development and appl
 Working on Open Sourcing the Fast Equilibration of Ocean Tracers Software (FEOTS).
  
 ### SELF Updates
- The SELF has gone private. 
- If you would like access to the SELF, let me know what applications you have in mind and I will be happy to work with you to curate a solution to your numerical problems.
+ I am preparing a cleaned up release of the SELF modules. High end solver source code will remain private, but can be made available for individual academic and research usage upon request.
 
 
 ### Numerical Simulation of the Week
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/pHfVq5aJFvE/0.jpg)](http://www.youtube.com/watch?v=pHfVq5aJFvE "Demos")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/SO43swKdl4Q/0.jpg)](http://www.youtube.com/watch?v=SO43swKdl4Q "Dam Break")
 
 
 ### Nifty Code Snippets
