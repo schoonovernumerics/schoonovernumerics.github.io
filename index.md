@@ -9,7 +9,7 @@ This page serves as a place to document my ongoing software development and appl
 
 
 ## Software Development and Applications
-  [ ![useful image](SELF-icon.png) ](https://schoonovernumerics.github.io/SELF/) 
+  [ ![useful image](SELF-icon.png) ](https://schoonovernumerics.github.io/SELF-Fluids/) 
   [ ![useful image](FEOTS_Logo.png) ](https://schoonovernumerics.github.io/FEOTS/) 
 ## Highlights from this week
 Working on Open Sourcing the Fast Equilibration of Ocean Tracers Software (FEOTS).
