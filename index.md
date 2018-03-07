@@ -5,6 +5,6 @@
 
 ## Software Development and Applications
   [ ![useful image](SELF-icon.png) ](https://schoonovernumerics.github.io/SELF-Fluids/) 
-  [ ![useful image](FEOTS_Logo.png) ](https://schoonovernumerics.github.io/FEOTS/) 
+  [ ![useful image](FEOTS_Logo.png) ](https://github.com/lanl/FEOTS) 
   [ ![useful image](geobars_logo.png) ](https://schoonovernumerics.github.io/GeoBarS/) 
 
